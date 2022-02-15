@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" viewBox="534 268  14 14" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 534.5 270  A 1.5 1.5 0 0 1 536 268.5 L 546 268.5  A 1.5 1.5 0 0 1 547.5 270 L 547.5 280  A 1.5 1.5 0 0 1 546 281.5 L 536 281.5  A 1.5 1.5 0 0 1 534.5 280 L 534.5 270  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
-  <path d="M 534.5 270  A 1.5 1.5 0 0 1 536 268.5 L 546 268.5  A 1.5 1.5 0 0 1 547.5 270 L 547.5 280  A 1.5 1.5 0 0 1 546 281.5 L 536 281.5  A 1.5 1.5 0 0 1 534.5 280 L 534.5 270  Z " stroke-width="1" stroke="#2699fb" fill="none" />
-  <path d="M 537.5 275.5  L 540.5 278.5  " stroke-width="3" stroke="#2699fb" fill="none" />
-  <path d="M 540.5 278.5  L 545.5 271.5  " stroke-width="3" stroke="#2699fb" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="14px" height="14px" viewBox="534 295  14 14" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 534.5 297  A 1.5 1.5 0 0 1 536 295.5 L 546 295.5  A 1.5 1.5 0 0 1 547.5 297 L 547.5 307  A 1.5 1.5 0 0 1 546 308.5 L 536 308.5  A 1.5 1.5 0 0 1 534.5 307 L 534.5 297  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
+  <path d="M 534.5 297  A 1.5 1.5 0 0 1 536 295.5 L 546 295.5  A 1.5 1.5 0 0 1 547.5 297 L 547.5 307  A 1.5 1.5 0 0 1 546 308.5 L 536 308.5  A 1.5 1.5 0 0 1 534.5 307 L 534.5 297  Z " stroke-width="1" stroke="#2699fb" fill="none" />
+  <path d="M 537.5 302.5  L 540.5 305.5  " stroke-width="3" stroke="#2699fb" fill="none" />
+  <path d="M 540.5 305.5  L 545.5 298.5  " stroke-width="3" stroke="#2699fb" fill="none" />
 </svg>
